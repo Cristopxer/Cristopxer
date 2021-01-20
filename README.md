@@ -4,11 +4,11 @@
 
 #### Currently learning/working on:
 
-   * 👨‍💻-React       * 👨‍💻-Angular
+    👨‍💻-React        👨‍💻-Angular
    
-   * 👨‍💻-NodeJs      * 💾-MongoDB
+    👨‍💻-NodeJs       💾-MongoDB
    
-   * 💾-Firebase
+    💾-Firebase
 
 #### With expirence in:
 
@@ -17,6 +17,7 @@
    * 💾-Oracle   💾-DB2   💾-Mysql   💾-PostgreSQL
 
    * 🔥-Debian   🔥-Ubuntu
+    
 ---
 <div>
   <p>Do you wanna know more about me?</p>
