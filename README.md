@@ -4,11 +4,15 @@
 
 #### Currently learning/working on:
 
-    * 👨‍💻-React
-    * 👨‍💻-Angular
-    * 👨‍💻-NodeJs
-    * 💾-MongoDB
-    * 💾-Firebase
+   * 👨‍💻-React
+   
+   * 👨‍💻-Angular
+   
+   * 👨‍💻-NodeJs
+   
+   * 💾-MongoDB
+   
+   * 💾-Firebase
 
 #### With expirence in:
 
