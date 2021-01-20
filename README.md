@@ -9,7 +9,7 @@
 💾-Firebase
 
 ###With expirence in:
---------------------|-------------------
+
 💻-Html  |  💾-Oracle
 💻-JavaSE  |  💾-Mysql
 💻-JSP  |  💾-PostgreSQL
