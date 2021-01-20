@@ -9,9 +9,13 @@
 💾-Firebase
 
 ###With expirence in:
-
-💻-Html  |  💾-Oracle
-💻-JavaSE  |  💾-Mysql
-💻-JSP  |  💾-PostgreSQL
-💻-Python | 🔥-Debian
-🔥-Ubuntu  |  😢-CentOS
+💻-Html
+💻-JavaSE
+💻-JSP
+💻-Python |
+💾-Oracle
+💾-DB2
+💾-Mysql
+💾-PostgreSQL |
+🔥-Debian
+🔥-Ubuntu
