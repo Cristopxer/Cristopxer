@@ -19,9 +19,10 @@
   </ul>
 </div>
 <hr />
-<div style="text-align: center;">
-  <p>Do you wanna know more about me?</p>
+<div>
+  <p style="text-align: center">Do you wanna know more about me?</p>
   <img
+    style="text-align: center"
     src="https://www.flaticon.com/svg/vstatic/svg/61/61109.svg?token=exp=1611114674~hmac=982175713c594fe9d5ffb54158b8a492"
     width="28"
     height="28"
