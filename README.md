@@ -21,9 +21,11 @@
 <hr />
 <div style="text-align: center">
   <p>Do you wanna know more about me?</p>
-  <img    
+  <a href="https://www.linkedin.com/in/crisdev/> target="_blank">
+       <img    
     src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/LinkedIn_Logo_2013.svg/268px-LinkedIn_Logo_2013.svg.png"
     height="34"
     width="134"
-  />
+  />                                                           
+  </a>
 </div>
