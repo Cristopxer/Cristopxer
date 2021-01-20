@@ -1,4 +1,4 @@
-<h1>Welcome Humans and Bots!🙋‍♂️</h1>
+<h1 style='text-align:center;'>Welcome Humans and Bots!🙋‍♂️</h1>
 <div>
   <h3>I'm Cristopher Ortiz, and I'm a Junior Software Engineer.</h3>
   <h4>Currently learning/working on:</h4>
