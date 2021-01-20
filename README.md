@@ -4,19 +4,15 @@
 
 #### Currently learning/working on:
 
-   * 👨‍💻-React
+   * 👨‍💻-React       * 👨‍💻-Angular
    
-   * 👨‍💻-Angular
-   
-   * 👨‍💻-NodeJs
-   
-   * 💾-MongoDB
+   * 👨‍💻-NodeJs      * 💾-MongoDB
    
    * 💾-Firebase
 
 #### With expirence in:
 
-   * 💻-JavaSE   💻-JSP   💻-Python   💻-Html
+   * 💻-Javascript  💻-JavaSE   💻-JSP   💻-Python   💻-Html
 
    * 💾-Oracle   💾-DB2   💾-Mysql   💾-PostgreSQL
 
