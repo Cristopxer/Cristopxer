@@ -1,16 +1,16 @@
-#Welcome Humans and Bots!🙋‍♂️
+# Welcome Humans and Bots!🙋‍♂️
 
-###I'm Cristopher Ortiz, and I'm a Junior Software Engineer.
+### I'm Cristopher Ortiz, and I'm a Junior Software Engineer.
 
-####Currently learning/working on:
+#### Currently learning/working on:
 
-    *👨‍💻-React
-    *👨‍💻-Angular
-    *👨‍💻-NodeJs
-    *💾-MongoDB
-    *💾-Firebase
+    * 👨‍💻-React
+    * 👨‍💻-Angular
+    * 👨‍💻-NodeJs
+    * 💾-MongoDB
+    * 💾-Firebase
 
-####With expirence in:
+#### With expirence in:
 
    * 💻-JavaSE   💻-JSP   💻-Python   💻-Html
 
