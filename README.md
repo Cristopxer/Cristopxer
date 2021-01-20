@@ -1,4 +1,4 @@
-<h1 style='text-align:center;'>Welcome Humans and Bots!🙋‍♂️</h1>
+<h1>Welcome Humans and Bots!🙋‍♂️</h1>
 <div>
   <h3>I'm Cristopher Ortiz, and I'm a Junior Software Engineer.</h3>
   <h4>Currently learning/working on:</h4>
@@ -19,12 +19,11 @@
   </ul>
 </div>
 <hr />
-<div>
-  <p style="text-align: center">Do you wanna know more about me?</p>
-  <img
-    style="text-align: center"
-    src="https://www.flaticon.com/svg/vstatic/svg/61/61109.svg?token=exp=1611114674~hmac=982175713c594fe9d5ffb54158b8a492"
-    width="28"
-    height="28"
+<div style="text-align: center">
+  <p>Do you wanna know more about me?</p>
+  <img    
+    src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/LinkedIn_Logo_2013.svg/268px-LinkedIn_Logo_2013.svg.png"
+    height="34"
+    width="134"
   />
 </div>
