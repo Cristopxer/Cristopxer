@@ -6,11 +6,11 @@
 
     👨‍💻-React        👨‍💻-Angular
    
-    👨‍💻-NodeJs       💾-MongoDB
-   
-    💾-Firebase
+    💻-Machine Learning
 
 #### With expirence in:
+    
+   * 🤖 RPA 
 
    * 💻-Javascript  💻-JavaSE   💻-JSP   💻-Python   💻-Html
 
