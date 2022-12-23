@@ -1,6 +1,6 @@
 # Welcome Humans and Bots!🙋‍♂️
 
-### I'm Cristopher Ortiz, and I'm a Junior Software Engineer.
+### I'm Cristopher Ortiz, and I'm a Software Engineer.
 
 #### Currently learning/working on:
 
