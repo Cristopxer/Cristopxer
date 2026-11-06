@@ -23,9 +23,9 @@
   <p>Do you wanna know more about me?</p>
   <a href="https://www.linkedin.com/in/cristopxer/> target="_blank">
        <img    
-    src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/LinkedIn_Logo_2013.svg/268px-LinkedIn_Logo_2013.svg.png"
-    height="34"
-    width="134"
+    src="https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/960px-LinkedIn_logo_initials.png?utm_source=commons.wikimedia.org&amp;utm_campaign=index&amp;utm_content=thumbnail"
+    height="45"
+    width="45"
   />                                                           
   </a>
 </div>
