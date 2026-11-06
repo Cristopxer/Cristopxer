@@ -21,7 +21,7 @@
 ---
 <div>
   <p>Do you wanna know more about me?</p>
-  <a href="https://www.linkedin.com/in/crisdev/> target="_blank">
+  <a href="https://www.linkedin.com/in/cristopxer> target="_blank">
        <img    
     src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/LinkedIn_Logo_2013.svg/268px-LinkedIn_Logo_2013.svg.png"
     height="34"
